@@ -13,10 +13,6 @@ public class DefaultCountingOutRhymer {
         return total;
     }
 
-    public void setTotal(int total) {
-        this.total = total;
-    }
-
     private int total = EMPTY;
 
     public void countIn(int in) {
