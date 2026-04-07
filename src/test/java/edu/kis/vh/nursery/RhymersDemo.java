@@ -1,3 +1,4 @@
+// Projekt jest poprawny, testy dzialaja
 package edu.kis.vh.nursery;
 
 import edu.kis.vh.nursery.factory.DefaultRhymersFactory;
